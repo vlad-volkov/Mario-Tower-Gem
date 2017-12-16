@@ -1,6 +1,6 @@
 require "mario_tower/version"
 
-module MarioTower
+#module MarioTower
   # Your code goes here...
   class Tower
     def build_tower
@@ -16,4 +16,4 @@ module MarioTower
       end
     end
   end
-end
+#end
